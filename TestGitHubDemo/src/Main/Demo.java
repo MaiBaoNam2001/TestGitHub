@@ -7,6 +7,5 @@ public class Demo {
 			System.out.println("Hello World !");
 		}
 		else System.out.println("Hello Java");
-		Thread.sleep((1000));
 	}
 }
