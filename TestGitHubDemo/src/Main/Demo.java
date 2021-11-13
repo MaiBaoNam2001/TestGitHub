@@ -5,7 +5,7 @@ public class Demo {
 		int a = 10, b = 5;
 		if (a == 10) {
 			System.out.println("Hello World !");
-		}
-		else System.out.println("Hello Java");
+		} else
+			System.out.println("Hello Java");
 	}
 }
